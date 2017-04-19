@@ -58,6 +58,7 @@ GameObject:
   - component: {fileID: 114379980928519036}
   - component: {fileID: 82490766927939422}
   - component: {fileID: 136696638514134270}
+  - component: {fileID: 114769967970150746}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -367,6 +368,38 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 8bc94ec6ed537e743b481638bdcd503d, type: 3}
   m_JumpSound: {fileID: 8300000, guid: 5897aeed9b676024fbb8c694b421a861, type: 3}
   m_LandSound: {fileID: 8300000, guid: 3b09d59f4499d45428baa7a21e954296, type: 3}
+--- !u!114 &114769967970150746
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1931585538524680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 244
+    i1: 51
+    i2: 77
+    i3: 112
+    i4: 81
+    i5: 170
+    i6: 82
+    i7: 164
+    i8: 170
+    i9: 197
+    i10: 11
+    i11: 22
+    i12: 175
+    i13: 66
+    i14: 216
+    i15: 140
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 0
 --- !u!124 &124990981298478084
 Behaviour:
   m_ObjectHideFlags: 1
